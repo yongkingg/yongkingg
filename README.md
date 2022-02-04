@@ -6,7 +6,7 @@
 
 :boy: Junior Developer studying in STAGEUS 
 
-:school: Smart Mobility Engineering at Inha University. Republic of Korea
+:school: Smart Mobility Engineering at Inha University
 #### Im currently studying
 
 
