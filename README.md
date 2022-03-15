@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dydwns8064@naver.com) 
 
 
-:boy: Front-end & Android Developer studying in STAGEUS 
+:boy: Front-end & Android Developer
 
 :school: Smart Mobility Engineering at Inha University
 #### Im currently studying
