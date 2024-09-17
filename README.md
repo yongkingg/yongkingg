@@ -8,6 +8,6 @@
 <h3 align="center">Studying</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,styledcomponents,webpack">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,styledcomponents">
   </a>
 </p>
