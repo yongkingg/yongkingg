@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,python,matlab,c,cpp">
   </a>
 </p>
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Studying</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,styledcomponents,webpack">
